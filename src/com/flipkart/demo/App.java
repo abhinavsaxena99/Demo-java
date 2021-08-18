@@ -2,6 +2,6 @@ package com.flipkart.demo;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("My first App");
+        System.out.println("My first Application");
     }
 }
